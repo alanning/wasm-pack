@@ -9,6 +9,8 @@ for publishing compiled wasm projects to the npm registry for the consumption
 of js devs using the npm CLI, yarn, or any other CLI tool that interfaces
 with the npm registry.
 
+[hello wasm-pack!](https://hacks.mozilla.org/2018/04/hello-wasm-pack/) (introductory post - April 18, 2018)
+
 this project is a part of the [rust-wasm] group. you can find more info by
 visiting that repo!
 
